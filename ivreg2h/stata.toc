@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ivreg2h Instrumental variables estimation using heteroskedasticity-based instruments Use ivreg2h With STATA 19
