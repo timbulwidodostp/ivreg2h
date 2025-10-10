@@ -1,6 +1,8 @@
 # ivreg2h
 Instrumental variables estimation using heteroskedasticity-based instruments Use ivreg2h With STATA 19
 
+https://www.youtube.com/watch?v=afamX7JZQe4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
